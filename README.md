@@ -99,9 +99,10 @@ Each project follows a deliberate evolution through these phases:
 
 ### 📌 Highlight Repositories
 - [`365js-fullstack`](https://github.com/Pankaj72885/365js-fullstack) – 🚧 Ongoing: 30-project portfolio with professional-grade implementations
-- [`Color Flipper`](https://github.com/Pankaj72885/#) – 🎨 Small JavaScript project DEMO
-- [`Digital Clock`](https://github.com/Pankaj72885/#) – 🕒 DEMO
+- [`Color Flipper`](https://github.com/Pankaj72885/Color-Flipper) – 🎨 Small JavaScript project DEMO
+- [`Digital Clock`](https://github.com/Pankaj72885/Digital-Clock) – 🕒 Digital Clock DEMO
 
+- [`Counter App`](https://github.com/Pankaj72885/Counter-App) – 🕒 Digital ClocDigi
 ---
 
 ### 📬 Let's Connect!
