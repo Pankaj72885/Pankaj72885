@@ -102,7 +102,7 @@ Each project follows a deliberate evolution through these phases:
 - [`Color Flipper`](https://github.com/Pankaj72885/Color-Flipper) – 🎨 Small JavaScript project DEMO
 - [`Digital Clock`](https://github.com/Pankaj72885/Digital-Clock) – 🕒 Digital Clock DEMO
 
-- [`Counter App`](https://github.com/Pankaj72885/Counter-App) – 🕒 Digital ClocDigi
+- [`Counter App`](https://github.com/Pankaj72885/Counter-App) – 🕒 Counter App DEMO
 ---
 
 ### 📬 Let's Connect!
