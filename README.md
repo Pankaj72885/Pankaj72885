@@ -170,7 +170,7 @@ I don't chase every trend. I focus on mastering technologies that deliver real v
 
 ---
 
-![Profile Views](https://komarev.com/ghpvc/?username=YOUR_GITHUB_USERNAME&color=blueviolet&style=for-the-badge)
+![Profile Views](https://komarev.com/ghpvc/?username=pankaj72885&color=blueviolet&style=for-the-badge)
 
 **⭐ Star my repositories if you find them interesting!**
 
