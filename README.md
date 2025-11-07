@@ -15,7 +15,7 @@
 - 🌱 I'm currently learning **TypeScript, Next.js, Redux, PostgreSQL, Prisma & Docker**
 - 👯 I'm looking to collaborate on **open source projects and innovative web applications**
 - 💬 Ask me about **JavaScript, React, Node.js, Express, MongoDB**
-- 📫 How to reach me: **[Your Email]** | **[LinkedIn](https://www.linkedin.com/in/pankaj-bepari-8aa69013a/)**
+- 📫 How to reach me: **[pankajbepari7@gmail.com]** | **[LinkedIn](https://www.linkedin.com/in/pankaj-bepari-8aa69013a/)**
 - 🌍 Open to **remote opportunities worldwide** and **on-site roles in Bangladesh**
 - ⚡ Fun fact: **I don't chase trends—I master technologies that deliver real value**
 
