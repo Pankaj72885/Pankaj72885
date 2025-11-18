@@ -32,7 +32,7 @@ Results-driven **Full Stack Web Developer** with hands-on experience building **
 **Frontend Development**
 - **Languages:** JavaScript (ES6+), TypeScript, HTML5, CSS3
 - **Frameworks/Libraries:** React 19, Next.js, React Router v7
-- **Styling:** Tailwind CSS, shadcn/ui, Framer Motion
+- **Styling:** Tailwind CSS, shadcn/ui, Framer Motion, DaisyUI
 - **State Management:** Zustand, TanStack Query (React Query)
 - **Form & Validation:** React Hook Form, Zod
 
@@ -56,84 +56,56 @@ Results-driven **Full Stack Web Developer** with hands-on experience building **
 
 ## 💼 Featured Projects
 
-### 📝 ** Task Manager Pro - upcomming** | [Live Demo](#) | [Frontend](#) | [Backend](#)
-*Collaborative task management platform with real-time updates and team features*
+### 🏦 **Finease** | [Live Demo](#) | [Frontend](https://github.com/Pankaj72885/finease-font-end) | [Backend](https://github.com/Pankaj72885/finease-back-end)
+*A comprehensive MERN Stack application for managing services and data.*
 
-**Tech Stack:** React 19, TypeScript, Express.js, MongoDB, Zustand, TanStack Query, shadcn/ui, Socket.io
+**Tech Stack:** React, Tailwind CSS, Express.js, MongoDB, Firebase Auth, JWT
 
 **✨ Key Features:**
-- ✅ Complete CRUD operations for tasks with drag-and-drop functionality
-- 👥 Team collaboration with role-based permissions (Admin, Member, Viewer)
-- 🔔 Real-time notifications using Socket.io
-- 📅 Calendar view and Kanban board layouts
-- 🏷️ Task labels, priorities, and custom categories
-- 📊 Team productivity analytics dashboard
-- 🔍 Advanced search and filtering options
-- 📱 Responsive design with mobile app-like experience
-
-**Technical Highlights:**
-- Real-time updates with WebSocket integration
-- Zustand for lightweight global state management
-- Optimistic UI updates for seamless user experience
-- MongoDB aggregation for analytics and reports
-- JWT-based authentication with refresh tokens
+- 🔐 **Secure Authentication:** Firebase-based login/registration with JWT token verification for private routes.
+- 📊 **Data Management:** Full CRUD (Create, Read, Update, Delete) operations for managing service entries.
+- 📱 **Responsive UI:** Built with Tailwind CSS to ensure a seamless experience across mobile and desktop.
+- 🔍 **Dynamic Search:** Real-time filtering of data and advanced search functionality.
+- 🎨 **Interactive Elements:** Smooth animations and user feedback using toast notifications.
 
 ---
 
-### 🛍️ ** E-Commerce Store - upcomming** | [Live Demo](#) | [Frontend](#) | [Backend](#)
-*Full-featured online shopping platform with payment integration*
+### 📱 **Hero Apps** | [Live Demo](https://hero-apps.pages.dev/) | [Repository](https://github.com/Pankaj72885/Hero-Apps)
+*A modern React-based application demonstrating modular architecture.*
 
-**Tech Stack:** React, TypeScript, Next.js 14, Express.js, PostgreSQL, Prisma, Stripe, Redis
+**Tech Stack:** React, React Router, Tailwind CSS, Cloudflare Pages
 
 **✨ Key Features:**
-- 🛒 Shopping cart with persistent sessions using Redis
-- 💳 Secure payment processing with Stripe
-- 🔐 User authentication with OAuth2 (Google, GitHub)
-- 📦 Order tracking and history
-- ⭐ Product reviews and ratings system
-- 🎯 Product recommendations based on browsing history
-- 👨‍💼 Admin dashboard for inventory and order management
-- 📧 Email notifications for order updates
-
-**Technical Highlights:**
-- Server-side rendering with Next.js for SEO optimization
-- PostgreSQL with Prisma ORM for type-safe database queries
-- Redis caching for improved performance
-- Image optimization with Next.js Image component
-- Stripe webhook integration for payment confirmation
+- ⚡ **Fast Performance:** Optimized build deployed on Cloudflare Pages for global low-latency access.
+- 🧩 **Modular Architecture:** Clean code structure using reusable React components.
+- 🛣️ **Client-Side Routing:** Seamless navigation without page reloads using React Router.
+- 🎨 **Modern Design:** Clean, accessible UI focusing on user experience (UX).
 
 ---
 
-### 📚 **DevBlog Platform - upcomming** | [Live Demo](#) | [Frontend](#) | [Backend](#)
-*Modern blogging platform for developers with markdown support*
+### 🎧 **Customer Support Zone** | [Live Demo](https://customer-support-zone.web.app/) | [Repository](https://github.com/Pankaj72885/customer-support-zone)
+*A service-oriented platform built to handle user inquiries and events.*
 
-**Tech Stack:** React, TypeScript, Express.js, MongoDB, React Router v7, TipTap Editor, Framer Motion
+**Tech Stack:** React, Firebase, Tailwind CSS, DaisyUI
 
 **✨ Key Features:**
-- ✍️ Rich markdown editor with live preview (TipTap)
-- 🏷️ Tag-based article categorization and search
-- 💬 Nested comment system with reactions
-- 👤 User profiles with follower system
-- 📖 Reading time estimation and progress tracker
-- 🌓 Syntax highlighting for code blocks
-- 📱 Responsive design with smooth animations
-- 🔖 Bookmark and save articles for later
-
-**Technical Highlights:**
-- Custom markdown parser with syntax highlighting
-- Image upload with compression and CDN integration
-- SEO-friendly URLs and meta tags
-- Full-text search with MongoDB text indexes
-- Infinite scroll with TanStack Query pagination
+- 👤 **User Profiles:** Dynamic profile management with photo upload and details editing.
+- 📅 **Event Booking:** Interactive UI for users to browse and select services.
+- 🛡️ **Private Routes:** Protected pages accessible only to authenticated users.
+- 💅 **Aesthetic UI:** Utilizes DaisyUI components for a polished, professional look.
 
 ---
 
-### 🎨 **5+ React Frontend Projects**
-- 🌐 **Portfolio Websites** - Modern UI/UX with Framer Motion animations
-- 🎯 **Landing Pages** - Conversion-optimized with responsive design
-- 📊 **Dashboard Templates** - Admin panels built with shadcn/ui
-- 🏢 **Business Websites** - Corporate sites with CMS integration
-- 🎮 **Interactive Web Apps** - Games and utilities with Canvas API
+## 📂 Other Noteworthy Projects
+
+*Explore more projects on my [GitHub Profile](https://github.com/Pankaj72885?tab=repositories)*
+
+| Project | Description | Tech Stack |
+| :--- | :--- | :--- |
+| **Fullstack Todo App** | A task management tool with user-specific data persistence and authentication. | MongoDB, Express, React, Node |
+| **Interactive Landing Pages** | Various responsive landing pages converted from Figma designs. | HTML5, Tailwind CSS, JS |
+| **Programming Hero Assignments** | A collection of rigorous coding challenges and full-stack assignments. | MERN Stack, APIs |
+| **JS DOM Projects** | Interactive utilities and games demonstrating core JavaScript logic. | Vanilla JS, DOM Manipulation |
 
 ---
 
@@ -151,36 +123,27 @@ Results-driven **Full Stack Web Developer** with hands-on experience building **
 
 ---
 
-## 🎓 Professional Development
+## 🎓 Education & Certifications
 
-### **Completed Certifications**
+### **Ongoing Professional Training**
 
-✅ **Junior Full Stack Web Development Course (Running)** | [Ostad](https://ostad.app/)
-- Comprehensive MERN stack development with TypeScript
-- Modern React patterns (React 19, Hooks, Context API)
-- Backend development with Express.js and MongoDB
-- Authentication, authorization, and security best practices
-- Deployment and production optimization
+🚀 **Next Level Web Development (Level 2)** | [Programming Hero](https://next.programming-hero.com/course-details)
+- **Advanced Full Stack:** Building scalable applications with **Next.js**, **TypeScript**, and **Redux**.
+- **Backend Engineering:** Building robust backend architecture using **PostgreSQL**, **Prisma ORM**, and **Mongoose**.
+- **DevOps & Cloud:** Containerization with **Docker**, deployment, and cloud services (AWS).
+- **System Design:** Learning microservices, system architecture, and industry-standard coding practices.
 
-✅ **Complete Web Development Course (Running)** | [Programming Hero](https://web.programming-hero.com/)
-- Foundation in HTML, CSS, JavaScript
-- Responsive web design and frontend development
-- Basic full-stack project development
+💻 **Full Stack Web Development (MERN)** | [Ostad](https://ostad.app/course/mern)
+- **Live Interactive Learning:** Real-time problem solving and code reviews with industry experts.
+- **Production-Grade Projects:** Building complex applications like E-commerce platforms and Task Managers.
+- **Advanced React:** Mastering state management, hooks, and performance optimization.
+- **Backend Logic:** Deep dive into Express.js middleware, API security, and database indexing.
 
-### **Current Learning Path**
-
-🔄 **In Progress:**
-- Data Structures & Algorithms (DSA) for technical interviews
-- PostgreSQL & Prisma for relational database management
-- Next.js for server-side rendering and static site generation
-- Go (Golang) for high-performance backend services
-- Docker for containerization and deployment
-
-📚 **Upcoming Goals:**
-- Jest for unit and integration testing
-- Kubernetes for container orchestration
-- OAuth2 for third-party authentication
-- Microservices architecture
+✅ **Complete Web Development** | [Programming Hero](https://web.programming-hero.com/course-details)
+- **Strong Foundation:** Mastered HTML5, CSS3, Tailwind CSS, and modern JavaScript (ES6+).
+- **Frontend Mastery:** Responsive design, DOM manipulation, and API integration.
+- **MERN Stack Basics:** Introduction to MongoDB, Express.js, React, and Node.js ecosystem.
+- **Hands-on Experience:** Completed 12+ assignments and extensive coding challenges.
 
 ---
 
@@ -192,7 +155,6 @@ interface Developer {
   learning: "Build real projects, not just tutorials";
   problemSolving: "Research, experiment, and iterate";
   collaboration: "Clear communication and code reviews";
-  focus: "Quality over quantity, mastery over trends";
 }
 
 const myPhilosophy: Developer = {
@@ -200,7 +162,6 @@ const myPhilosophy: Developer = {
   learning: "Build real projects, not just tutorials",
   problemSolving: "Research, experiment, and iterate",
   collaboration: "Clear communication and code reviews",
-  focus: "Quality over quantity, mastery over trends"
 };
 ```
 
