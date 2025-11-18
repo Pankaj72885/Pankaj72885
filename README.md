@@ -56,60 +56,147 @@ Results-driven **Full Stack Web Developer** with hands-on experience building **
 
 ## 💼 Featured Projects
 
-### 🛒 **Personal Finance Management App** | [Live Demo](https://finease-font-end.vercel.app/) | [GitHub - Font-end](https://github.com/Pankaj72885/finease-font-end) | [GitHub - Back-end](https://github.com/Pankaj72885/finease-back-end)
-*Full-stack MERN Application with Personal Finance Management Functionality*
+### 🛒 **E-Commerce Platform** | [Live Demo](#) | [GitHub](#)
+*Full-stack MERN application with complete shopping functionality*
 
-**Tech Stack:** React 19 (vite), Express.js, MongoDB (Atlas), Firebase Admin SDK, CORS, dotenv, varcel, Tailwind CSS, shadcn/ui, Firebase Authentication, react-router, TanStack Query (React Query), Recharts, date-fns, react-hot-toast, SweetAlert2,
+**Tech Stack:** React 19, TypeScript, Express.js, MongoDB, Tailwind CSS, shadcn/ui, JWT Authentication
+
+**Key Features:**
+- Secure user authentication with JWT and Firebase Auth
+- Product catalog with filtering, sorting, and search functionality
+- Shopping cart with real-time updates using Zustand
+- Admin dashboard for product and order management
+- Payment gateway integration
+- Responsive design with Framer Motion animations
+
+**Technical Highlights:**
+- Converted from JavaScript to TypeScript for type safety
+- Implemented form validation with React Hook Form + Zod
+- RESTful API with proper error handling and middleware
+- Deployed frontend on Vercel, backend on Render
+
 ---
-**Key Features Font-end:**
-- 🔐 **Authentication System**
-  - Email/Password & Google Login (Firebase)
-  - Protected routes & profile management
 
-- 💸 **Transaction Management (CRUD)**
-  - Add, edit, delete, and view income/expense transactions
-  - Category-based filtering and sorting
+### 📝 **Task Management System** | [Live Demo](#) | [GitHub](#)
+*Collaborative productivity tool with real-time updates*
 
-- 📊 **Financial Reports**
-  - Interactive Pie & Bar charts using **Recharts**
-  - Monthly summaries and category-wise spending
+**Tech Stack:** React, TypeScript, Node.js, Express, MongoDB, TanStack Query, shadcn/ui
 
-- 🌗 **Modern UI/UX**
-  - Built with **TailwindCSS** + **shadcn/ui**
-  - Light/Dark mode with Theme Context
-  - Fully responsive (mobile → desktop)
+**Key Features:**
+- CRUD operations for tasks with priority levels and deadlines
+- User authentication and role-based access control
+- Real-time data synchronization with TanStack Query
+- Task filtering by status, priority, and assignee
+- Team collaboration features
 
-- 🧭 **Routing**
-  - React Router v7.x for seamless SPA navigation
+**Technical Highlights:**
+- Optimistic UI updates for better UX
+- Custom hooks for reusable logic
+- MongoDB aggregation pipelines for analytics
+- Deployed with CI/CD pipeline
 
- **Key Features Back-end:**
-- 🔐 **Firebase Authentication (Admin SDK)**
+---
 
-  - Email/password & Google login verification
-  - Token-based protected routes
+### 📚 **Developer Blog Platform** | [Live Demo](#) | [GitHub](#)
+*Modern blogging platform with markdown support*
 
-- 💾 **MongoDB Integration**
+**Tech Stack:** React, TypeScript, Express.js, MongoDB, React Router v7, Framer Motion
 
-  - Native MongoDB driver (no Mongoose)
-  - Secure and efficient CRUD operations
+**Key Features:**
+- Rich markdown editor for content creation
+- User profiles with bio and social links
+- Comment system with nested replies
+- Tag-based article categorization
+- Responsive design with smooth animations
 
-- 📊 **Financial Reports**
+**Technical Highlights:**
+- Server-side rendering with React Router v7
+- Image upload with Multer and cloud storage
+- SEO optimization
+- Secure API with Helmet.js and validation
 
-  - Category-wise analysis
-  - Monthly summaries
-  - Balance and net income reports
+---
 
-- 🧰 **Clean Express Architecture**
-  - Modular routes, middleware, and config
-  - Environment-based configuration
+---
+
+### 📝 **[Project Name] - Task Manager Pro (upcomming)** | [Live Demo](#) | [Frontend](#) | [Backend](#)
+*Collaborative task management platform with real-time updates and team features*
+
+**Tech Stack:** React 19, TypeScript, Express.js, MongoDB, Zustand, TanStack Query, shadcn/ui, Socket.io
+
+**✨ Key Features:**
+- ✅ Complete CRUD operations for tasks with drag-and-drop functionality
+- 👥 Team collaboration with role-based permissions (Admin, Member, Viewer)
+- 🔔 Real-time notifications using Socket.io
+- 📅 Calendar view and Kanban board layouts
+- 🏷️ Task labels, priorities, and custom categories
+- 📊 Team productivity analytics dashboard
+- 🔍 Advanced search and filtering options
+- 📱 Responsive design with mobile app-like experience
+
+**Technical Highlights:**
+- Real-time updates with WebSocket integration
+- Zustand for lightweight global state management
+- Optimistic UI updates for seamless user experience
+- MongoDB aggregation for analytics and reports
+- JWT-based authentication with refresh tokens
+
+---
+
+### 🛍️ **[Project Name] - E-Commerce Store (upcomming)** | [Live Demo](#) | [Frontend](#) | [Backend](#)
+*Full-featured online shopping platform with payment integration*
+
+**Tech Stack:** React, TypeScript, Next.js 14, Express.js, PostgreSQL, Prisma, Stripe, Redis
+
+**✨ Key Features:**
+- 🛒 Shopping cart with persistent sessions using Redis
+- 💳 Secure payment processing with Stripe
+- 🔐 User authentication with OAuth2 (Google, GitHub)
+- 📦 Order tracking and history
+- ⭐ Product reviews and ratings system
+- 🎯 Product recommendations based on browsing history
+- 👨‍💼 Admin dashboard for inventory and order management
+- 📧 Email notifications for order updates
+
+**Technical Highlights:**
+- Server-side rendering with Next.js for SEO optimization
+- PostgreSQL with Prisma ORM for type-safe database queries
+- Redis caching for improved performance
+- Image optimization with Next.js Image component
+- Stripe webhook integration for payment confirmation
+
+---
+
+### 📚 **[Project Name] - DevBlog Platform (upcomming)** | [Live Demo](#) | [Frontend](#) | [Backend](#)
+*Modern blogging platform for developers with markdown support*
+
+**Tech Stack:** React, TypeScript, Express.js, MongoDB, React Router v7, TipTap Editor, Framer Motion
+
+**✨ Key Features:**
+- ✍️ Rich markdown editor with live preview (TipTap)
+- 🏷️ Tag-based article categorization and search
+- 💬 Nested comment system with reactions
+- 👤 User profiles with follower system
+- 📖 Reading time estimation and progress tracker
+- 🌓 Syntax highlighting for code blocks
+- 📱 Responsive design with smooth animations
+- 🔖 Bookmark and save articles for later
+
+**Technical Highlights:**
+- Custom markdown parser with syntax highlighting
+- Image upload with compression and CDN integration
+- SEO-friendly URLs and meta tags
+- Full-text search with MongoDB text indexes
+- Infinite scroll with TanStack Query pagination
 
 ---
 
 ### 🎨 **5+ React Frontend Projects**
-- Portfolio websites with modern UI/UX
-- Landing pages with Framer Motion animations
-- Dashboard templates with shadcn/ui components
-- Static sites deployed on Cloudflare Pages
+- 🌐 **Portfolio Websites** - Modern UI/UX with Framer Motion animations
+- 🎯 **Landing Pages** - Conversion-optimized with responsive design
+- 📊 **Dashboard Templates** - Admin panels built with shadcn/ui
+- 🏢 **Business Websites** - Corporate sites with CMS integration
+- 🎮 **Interactive Web Apps** - Games and utilities with Canvas API
 
 ---
 
@@ -131,19 +218,17 @@ Results-driven **Full Stack Web Developer** with hands-on experience building **
 
 ### **Completed Certifications**
 
-
-
-✅ **Complete Web Development Course** | [Programming Hero](https://web.programming-hero.com/) | (Running)
-- Foundation in HTML, CSS, JavaScript
-- Responsive web design and frontend development
-- Basic full-stack project development
-
-✅ **Junior Full Stack Web Development Course** | [Ostad](https://ostad.app/) |2025 (Running)
+✅ **Junior Full Stack Web Development Course (Running)** | [Ostad](https://ostad.app/)
 - Comprehensive MERN stack development with TypeScript
 - Modern React patterns (React 19, Hooks, Context API)
 - Backend development with Express.js and MongoDB
 - Authentication, authorization, and security best practices
 - Deployment and production optimization
+
+✅ **Complete Web Development Course (Running)** | [Programming Hero](https://web.programming-hero.com/)
+- Foundation in HTML, CSS, JavaScript
+- Responsive web design and frontend development
+- Basic full-stack project development
 
 ### **Current Learning Path**
 
@@ -192,7 +277,7 @@ const myPhilosophy: Developer = {
 - Understanding of security, performance optimization, and best practices
 
 🚀 **Project Delivery**
-- 13+ completed projects demonstrating full development lifecycle
+- 13+ completed projects demonstrating full-stack development lifecycle
 - Experience converting JavaScript to TypeScript for improved code quality
 - Comfortable with modern deployment workflows and CI/CD
 
@@ -237,13 +322,15 @@ I'm actively seeking **remote opportunities** where I can contribute to meaningf
 
 ---
 
-## 📌 Current Focus
+## 📌 Current Focus (November 2025)
 
-- 🎯 Completing advanced DSA for technical interview preparation
-- 🚀 Building a personal portfolio website with Next.js
-- 📚 Learning PostgreSQL and Prisma for production-grade applications
-- 🔍 Actively applying for remote full-stack developer positions
-- 🌱 Contributing to open-source projects
+- 🎯 Mastering DSA (Arrays, Linked Lists, Trees, Graphs, Dynamic Programming)
+- 🚀 Building a professional portfolio website with Next.js 14 & Framer Motion
+- 📚 Deep diving into PostgreSQL queries, indexing, and Prisma ORM
+- 🔍 Actively applying for remote full-stack developer positions globally
+- 🌱 Contributing to open-source projects (React, Node.js ecosystems)
+- 📝 Writing technical blog posts to share learning journey
+- 🏆 Participating in coding challenges on LeetCode & CodeWars
 
 ---
 
