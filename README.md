@@ -56,28 +56,7 @@ Results-driven **Full Stack Web Developer** with hands-on experience building **
 
 ## 💼 Featured Projects
 
-### 🛒 **E-Commerce Platform** | [Live Demo](#) | [GitHub](#)
-*Full-stack MERN application with complete shopping functionality*
-
-**Tech Stack:** React 19, TypeScript, Express.js, MongoDB, Tailwind CSS, shadcn/ui, JWT Authentication
-
-**Key Features:**
-- Secure user authentication with JWT and Firebase Auth
-- Product catalog with filtering, sorting, and search functionality
-- Shopping cart with real-time updates using Zustand
-- Admin dashboard for product and order management
-- Payment gateway integration
-- Responsive design with Framer Motion animations
-
-**Technical Highlights:**
-- Converted from JavaScript to TypeScript for type safety
-- Implemented form validation with React Hook Form + Zod
-- RESTful API with proper error handling and middleware
-- Deployed frontend on Vercel, backend on Render
-
----
-
-### 📝 **[Project Name] - Task Manager Pro - upcomming** | [Live Demo](#) | [Frontend](#) | [Backend](#)
+### 📝 ** Task Manager Pro - upcomming** | [Live Demo](#) | [Frontend](#) | [Backend](#)
 *Collaborative task management platform with real-time updates and team features*
 
 **Tech Stack:** React 19, TypeScript, Express.js, MongoDB, Zustand, TanStack Query, shadcn/ui, Socket.io
@@ -101,7 +80,7 @@ Results-driven **Full Stack Web Developer** with hands-on experience building **
 
 ---
 
-### 🛍️ **[Project Name] - E-Commerce Store - upcomming** | [Live Demo](#) | [Frontend](#) | [Backend](#)
+### 🛍️ ** E-Commerce Store - upcomming** | [Live Demo](#) | [Frontend](#) | [Backend](#)
 *Full-featured online shopping platform with payment integration*
 
 **Tech Stack:** React, TypeScript, Next.js 14, Express.js, PostgreSQL, Prisma, Stripe, Redis
@@ -125,7 +104,7 @@ Results-driven **Full Stack Web Developer** with hands-on experience building **
 
 ---
 
-### 📚 **[Project Name] - DevBlog Platform - upcomming** | [Live Demo](#) | [Frontend](#) | [Backend](#)
+### 📚 **DevBlog Platform - upcomming** | [Live Demo](#) | [Frontend](#) | [Backend](#)
 *Modern blogging platform for developers with markdown support*
 
 **Tech Stack:** React, TypeScript, Express.js, MongoDB, React Router v7, TipTap Editor, Framer Motion
