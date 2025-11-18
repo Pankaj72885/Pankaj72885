@@ -136,6 +136,16 @@ Results-driven **Full Stack Web Developer** with hands-on experience building **
     - [cite_start]*PH Healthcare:* Full Stack App with AI Integration (Frontend & Backend)[cite: 39, 45].
     - [cite_start]*PH Tour Management:* Backend system built with Golang[cite: 51].
 
+### **✅ Complete Web Development**
+**Institution:** [Programming Hero](https://web.programming-hero.com/course-details)
+**Duration:** July 2025 – Dec 2025 (Completing)
+
+*Foundational training covering the entire web development lifecycle.*
+- **Frontend Mastery:** Responsive design with HTML5, CSS3, Tailwind CSS, DaisyUI and ShadCN/UI.
+- **JavaScript Core:** DOM manipulation, ES6+ features, and asynchronous programming.
+- **MERN Introduction:** Hands-on experience connecting React frontends with Express, Node/Mongo backends.
+- **Assessment:** Completed 12+ rigorous assignments and coding challenges.
+
 ### **💻 Full Stack Web Development (MERN)**
 **Institution:** [Ostad](https://ostad.app/course/mern)
 **Duration:** May 2025 – Dec 2025 (Completing)
@@ -145,16 +155,6 @@ Results-driven **Full Stack Web Developer** with hands-on experience building **
 - **Backend Logic:** Deep dive into Node.js core modules, Express.js middleware, and API security.
 - **Advanced React:** Mastering React 19 patterns, complex state management, and performance hooks.
 - **Project Work:** Building production-grade E-commerce and Task Management applications.
-
-### **✅ Complete Web Development**
-**Institution:** [Programming Hero](https://web.programming-hero.com/course-details)
-**Duration:** July 2025 – Dec 2025 (Completing)
-
-*Foundational training covering the entire web development lifecycle.*
-- **Frontend Mastery:** Responsive design with HTML5, CSS3, Tailwind CSS, and DaisyUI.
-- **JavaScript Core:** DOM manipulation, ES6+ features, and asynchronous programming.
-- **MERN Introduction:** Hands-on experience connecting React frontends with Node/Mongo backends.
-- **Assessment:** Completed 12+ rigorous assignments and coding challenges.
 
 ---
 
@@ -234,7 +234,7 @@ I'm actively seeking **remote opportunities** where I can contribute to meaningf
 ## 📌 Current Focus (November 2025)
 
 - 🎯 Mastering DSA (Arrays, Linked Lists, Trees, Graphs, Dynamic Programming)
-- 🚀 Building a professional portfolio website with Next.js 14 & Framer Motion
+- 🚀 Building a professional portfolio website with Next.js & Framer Motion
 - 📚 Deep diving into PostgreSQL queries, indexing, and Prisma ORM
 - 🔍 Actively applying for remote full-stack developer positions globally
 - 🌱 Contributing to open-source projects (React, Node.js ecosystems)
