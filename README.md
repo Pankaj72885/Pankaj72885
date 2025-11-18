@@ -14,14 +14,14 @@
 
 ## 👨‍💻 Professional Summary
 
-Results-driven **Full Stack Web Developer** with hands-on experience building **13+ production-ready applications** using the MERN stack. Specialized in creating scalable, type-safe web applications with modern tools like TypeScript, React 19, Next.js, and PostgreSQL. Currently serving in the Bangladesh Army while actively seeking **remote opportunities** to contribute to innovative development teams.
+Results-driven **Full Stack Web Developer** with hands-on experience building **13+ production-ready applications**. Specialized in creating scalable, type-safe web applications with **React 19, Next.js, and TypeScript**. Currently advancing expertise in **Cloud Native Architecture (Docker, AWS)** and **Golang** through rigorous industry-standard training scheduled for completion in April 2026. I combine military-grade discipline with cutting-edge technical skills to deliver robust software solutions.
 
 **🎯 Key Strengths:**
 - 3+ Full-Stack MERN applications deployed in production
 - Strong foundation in TypeScript, modern React patterns, and RESTful API design
-- Experience with authentication systems (Firebase Auth, JWT), state management (Zustand, TanStack Query), and form validation (React Hook Form + Zod)
-- Proficient in converting JavaScript projects to TypeScript for enhanced code quality
-- Self-driven learner with completed professional web development certifications
+- Experience with authentication systems (Firebase Auth, JWT), state management (Zustand, TanStack Query), and form validation
+- Actively mastering Microservices, CI/CD pipelines, and System Design
+- Self-driven learner with a clear roadmap for Full Stack mastery
 
 ---
 
@@ -38,19 +38,17 @@ Results-driven **Full Stack Web Developer** with hands-on experience building **
 
 **Backend Development**
 - **Runtime:** Node.js, Bun.js (Learning)
-- **Frameworks:** Express.js
+- **Frameworks:** Express.js, Golang (Fiber/Gin - Learning)
 - **Databases:** MongoDB (Mongoose), PostgreSQL, Firebase
-- **Authentication:** JWT, Firebase Auth, OAuth2 (Learning)
+- **Authentication:** JWT, Firebase Auth, OAuth2
 - **API Tools:** Axios, RESTful API Design
 
 **DevOps & Tools**
 - **Version Control:** Git, GitHub
-- **Deployment:** Vercel, Render, Railway, Cloudflare Pages
-- **File Handling:** Multer
-- **Security:** Helmet.js, CORS
+- **Deployment:** Vercel, Render, Cloudflare Pages, AWS (EC2, S3 - Learning)
+- **Containerization:** Docker, Nginx
 - **Design:** Figma
-- **Code Quality:** ESLint, Prettier
-- **Currently Learning:** Docker, Prisma, Jest, Go (Golang)
+- **Code Quality:** ESLint, Prettier, Jest (Testing)
 
 ---
 
@@ -125,25 +123,38 @@ Results-driven **Full Stack Web Developer** with hands-on experience building **
 
 ## 🎓 Education & Certifications
 
-### **Ongoing Professional Training**
+### **🚀 Next Level Web Development (Level 2)**
+**Institution:** [Programming Hero](https://next.programming-hero.com/course-details)
+**Duration:** Nov 2025 – Apr 2026 (In Progress)
 
-🚀 **Next Level Web Development (Level 2)** | [Programming Hero](https://next.programming-hero.com/course-details)
-- **Advanced Full Stack:** Building scalable applications with **Next.js**, **TypeScript**, and **Redux**.
-- **Backend Engineering:** Building robust backend architecture using **PostgreSQL**, **Prisma ORM**, and **Mongoose**.
-- **DevOps & Cloud:** Containerization with **Docker**, deployment, and cloud services (AWS).
-- **System Design:** Learning microservices, system architecture, and industry-standard coding practices.
+*A rigorous advanced training program focusing on Scalability, Cloud Native Tech, and Polyglot Programming.*
+- [cite_start]**Advanced Full Stack:** Building scalable applications with **Next.js**, **Prisma ORM**, and **PostgreSQL**[cite: 31, 34].
+- [cite_start]**Golang Mastery:** Developing high-performance backend services and CRUD operations using **Go**[cite: 48, 50].
+- [cite_start]**DevOps & Cloud:** Implementing **Docker** containerization, **Nginx** load balancing, and **AWS** (EC2, S3, CI/CD with GitHub Actions)[cite: 55, 62, 63, 72].
+- [cite_start]**Software Engineering:** Focusing on System Design, Testing (Jest/Supertest), and Algorithms[cite: 74, 80].
+- **Major Projects:**
+    - [cite_start]*PH Healthcare:* Full Stack App with AI Integration (Frontend & Backend)[cite: 39, 45].
+    - [cite_start]*PH Tour Management:* Backend system built with Golang[cite: 51].
 
-💻 **Full Stack Web Development (MERN)** | [Ostad](https://ostad.app/course/mern)
-- **Live Interactive Learning:** Real-time problem solving and code reviews with industry experts.
-- **Production-Grade Projects:** Building complex applications like E-commerce platforms and Task Managers.
-- **Advanced React:** Mastering state management, hooks, and performance optimization.
-- **Backend Logic:** Deep dive into Express.js middleware, API security, and database indexing.
+### **💻 Full Stack Web Development (MERN)**
+**Institution:** [Ostad](https://ostad.app/course/mern)
+**Duration:** May 2025 – Dec 2025 (Completing)
 
-✅ **Complete Web Development** | [Programming Hero](https://web.programming-hero.com/course-details)
-- **Strong Foundation:** Mastered HTML5, CSS3, Tailwind CSS, and modern JavaScript (ES6+).
-- **Frontend Mastery:** Responsive design, DOM manipulation, and API integration.
-- **MERN Stack Basics:** Introduction to MongoDB, Express.js, React, and Node.js ecosystem.
-- **Hands-on Experience:** Completed 12+ assignments and extensive coding challenges.
+*Intensive bootcamp focused on the MERN ecosystem and production standards.*
+- **Live Interactive Learning:** Real-time code reviews and problem-solving with industry experts.
+- **Backend Logic:** Deep dive into Node.js core modules, Express.js middleware, and API security.
+- **Advanced React:** Mastering React 19 patterns, complex state management, and performance hooks.
+- **Project Work:** Building production-grade E-commerce and Task Management applications.
+
+### **✅ Complete Web Development**
+**Institution:** [Programming Hero](https://web.programming-hero.com/course-details)
+**Duration:** July 2025 – Dec 2025 (Completing)
+
+*Foundational training covering the entire web development lifecycle.*
+- **Frontend Mastery:** Responsive design with HTML5, CSS3, Tailwind CSS, and DaisyUI.
+- **JavaScript Core:** DOM manipulation, ES6+ features, and asynchronous programming.
+- **MERN Introduction:** Hands-on experience connecting React frontends with Node/Mongo backends.
+- **Assessment:** Completed 12+ rigorous assignments and coding challenges.
 
 ---
 
