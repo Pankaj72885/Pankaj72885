@@ -77,49 +77,7 @@ Results-driven **Full Stack Web Developer** with hands-on experience building **
 
 ---
 
-### 📝 **Task Management System** | [Live Demo](#) | [GitHub](#)
-*Collaborative productivity tool with real-time updates*
-
-**Tech Stack:** React, TypeScript, Node.js, Express, MongoDB, TanStack Query, shadcn/ui
-
-**Key Features:**
-- CRUD operations for tasks with priority levels and deadlines
-- User authentication and role-based access control
-- Real-time data synchronization with TanStack Query
-- Task filtering by status, priority, and assignee
-- Team collaboration features
-
-**Technical Highlights:**
-- Optimistic UI updates for better UX
-- Custom hooks for reusable logic
-- MongoDB aggregation pipelines for analytics
-- Deployed with CI/CD pipeline
-
----
-
-### 📚 **Developer Blog Platform** | [Live Demo](#) | [GitHub](#)
-*Modern blogging platform with markdown support*
-
-**Tech Stack:** React, TypeScript, Express.js, MongoDB, React Router v7, Framer Motion
-
-**Key Features:**
-- Rich markdown editor for content creation
-- User profiles with bio and social links
-- Comment system with nested replies
-- Tag-based article categorization
-- Responsive design with smooth animations
-
-**Technical Highlights:**
-- Server-side rendering with React Router v7
-- Image upload with Multer and cloud storage
-- SEO optimization
-- Secure API with Helmet.js and validation
-
----
-
----
-
-### 📝 **[Project Name] - Task Manager Pro (upcomming)** | [Live Demo](#) | [Frontend](#) | [Backend](#)
+### 📝 **[Project Name] - Task Manager Pro - upcomming** | [Live Demo](#) | [Frontend](#) | [Backend](#)
 *Collaborative task management platform with real-time updates and team features*
 
 **Tech Stack:** React 19, TypeScript, Express.js, MongoDB, Zustand, TanStack Query, shadcn/ui, Socket.io
@@ -143,7 +101,7 @@ Results-driven **Full Stack Web Developer** with hands-on experience building **
 
 ---
 
-### 🛍️ **[Project Name] - E-Commerce Store (upcomming)** | [Live Demo](#) | [Frontend](#) | [Backend](#)
+### 🛍️ **[Project Name] - E-Commerce Store - upcomming** | [Live Demo](#) | [Frontend](#) | [Backend](#)
 *Full-featured online shopping platform with payment integration*
 
 **Tech Stack:** React, TypeScript, Next.js 14, Express.js, PostgreSQL, Prisma, Stripe, Redis
@@ -167,7 +125,7 @@ Results-driven **Full Stack Web Developer** with hands-on experience building **
 
 ---
 
-### 📚 **[Project Name] - DevBlog Platform (upcomming)** | [Live Demo](#) | [Frontend](#) | [Backend](#)
+### 📚 **[Project Name] - DevBlog Platform - upcomming** | [Live Demo](#) | [Frontend](#) | [Backend](#)
 *Modern blogging platform for developers with markdown support*
 
 **Tech Stack:** React, TypeScript, Express.js, MongoDB, React Router v7, TipTap Editor, Framer Motion
