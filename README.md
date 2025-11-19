@@ -107,17 +107,15 @@ Results-driven **Full Stack Web Developer** with hands-on experience building **
 
 ---
 
-## 📊 GitHub Statistics
+# 📊 GitHub Stats:
 
-<div align="center">
 
-![Pankaj's GitHub Stats](https://github-readme-stats.vercel.app/api?username=pankaj72885&show_icons=true&theme=tokyonight&hide_border=true&count_private=true)
+![](https://github-readme-stats.vercel.app/api?username=pankaj72885&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://nirzak-streak-stats.vercel.app/?user=pankaj72885&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=pankaj72885&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=pankaj72885&layout=compact&theme=tokyonight&hide_border=true)
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=pankaj72885&theme=tokyonight&hide_border=true)
-
-</div>
 
 ---
 
