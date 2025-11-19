@@ -2,7 +2,7 @@
 
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/pankaj-bepari-8aa69013a/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/pankajbepari/)
 [![Email](https://img.shields.io/badge/Email-Contact-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:pankajbepari7@gmail.com)
 [![Portfolio](https://img.shields.io/badge/Portfolio-Visit-000000?style=for-the-badge&logo=vercel&logoColor=white)](#)
 
@@ -54,7 +54,7 @@ Results-driven **Full Stack Web Developer** with hands-on experience building **
 
 ## 💼 Featured Projects
 
-### 🏦 **Finease** | [Live Demo](#) | [Frontend](https://github.com/Pankaj72885/finease-font-end) | [Backend](https://github.com/Pankaj72885/finease-back-end)
+### 🏦 **Finease** | [Live Demo](https://finease-font-end.vercel.app/) | [Frontend](https://github.com/Pankaj72885/finease-font-end) | [Backend](https://github.com/Pankaj72885/finease-back-end)
 *A comprehensive MERN Stack application for managing services and data.*
 
 **Tech Stack:** React, Tailwind CSS, Express.js, MongoDB, Firebase Auth, JWT
