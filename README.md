@@ -224,7 +224,7 @@ const myPhilosophy: Developer = {
 I'm actively seeking **remote opportunities** where I can contribute to meaningful projects and grow as a developer. If you're looking for a dedicated full-stack developer with a strong foundation and eagerness to learn, let's talk!
 
 📧 **Email:** [pankajbepari7@gmail.com](mailto:pankajbepari7@gmail.com)  
-🔗 **LinkedIn:** [linkedin.com/in/pankaj-bepari-8aa69013a](https://www.linkedin.com/in/pankaj-bepari-8aa69013a/)  
+🔗 **LinkedIn:** [linkedin.com/in/pankaj-bepari-8aa69013a](https://www.linkedin.com/in/pankajbepari/)  
 💼 **Portfolio:** [Coming Soon]  
 📍 **Location:** Dhaka, Bangladesh (Open to Remote Worldwide)  
 ⏰ **Timezone:** GMT+6 (Flexible)
