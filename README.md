@@ -126,13 +126,13 @@ Results-driven **Full Stack Web Developer** with hands-on experience building **
 **Duration:** Nov 2025 – Apr 2026 (In Progress)
 
 *A rigorous advanced training program focusing on Scalability, Cloud Native Tech, and Polyglot Programming.*
-- [cite_start]**Advanced Full Stack:** Building scalable applications with **Next.js**, **Prisma ORM**, and **PostgreSQL**[cite: 31, 34].
-- [cite_start]**Golang Mastery:** Developing high-performance backend services and CRUD operations using **Go**[cite: 48, 50].
-- [cite_start]**DevOps & Cloud:** Implementing **Docker** containerization, **Nginx** load balancing, and **AWS** (EC2, S3, CI/CD with GitHub Actions)[cite: 55, 62, 63, 72].
-- [cite_start]**Software Engineering:** Focusing on System Design, Testing (Jest/Supertest), and Algorithms[cite: 74, 80].
+- **Advanced Full Stack:** Building scalable applications with **Next.js**, **Prisma ORM**, and **PostgreSQL**.
+- **Golang Mastery:** Developing high-performance backend services and CRUD operations using **Go**.
+- **DevOps & Cloud:** Implementing **Docker** containerization, **Nginx** load balancing, and **AWS** (EC2, S3, CI/CD with GitHub Actions).
+- **Software Engineering:** Focusing on System Design, Testing (Jest/Supertest), and Algorithms.
 - **Major Projects:**
-    - [cite_start]*PH Healthcare:* Full Stack App with AI Integration (Frontend & Backend)[cite: 39, 45].
-    - [cite_start]*PH Tour Management:* Backend system built with Golang[cite: 51].
+    - *PH Healthcare:* Full Stack App with AI Integration (Frontend & Backend).
+    - *PH Tour Management:* Backend system built with Golang.
 
 ### **✅ Complete Web Development**
 **Institution:** [Programming Hero](https://web.programming-hero.com/course-details)
