@@ -78,7 +78,7 @@ I have successfully transitioned my technical aptitude into software engineering
 
 <p align="center">
   <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=Pankaj72885&theme=dark&hide_border=false&include_all_commits=false&count_private=false" alt="GitHub Stats" /><br/>
-![](https://nirzak-streak-stats.vercel.app/?user=pankaj72885&theme=dark&hide_border=false)<br/>
+  <img src="https://nirzak-streak-stats.vercel.app/?user=pankaj72885&theme=dark&hide_border=false" alt="Streak Stats" /><br/>
   <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Pankaj72885&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact&langs_count=8" alt="Top Languages" />
 </p>
 
