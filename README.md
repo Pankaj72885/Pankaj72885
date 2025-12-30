@@ -1,4 +1,4 @@
-![Banner](./banner.png)
+![Banner](./updateBanner.png)
 
 <h1 align="center">Hi there, I'm Pankaj Bepari 👋</h1>
 <h3 align="center">Full Stack Developer | Ex-Army Technician | Problem Solver</h3>
