@@ -1,7 +1,7 @@
 ![Banner](./updateBanner.png)
 
 <h1 align="center">Hi there, I'm Pankaj Bepari 👋</h1>
-<h3 align="center">Full Stack Developer | Ex-Army Technician | Problem Solver</h3>
+<h3 align="center">Full Stack Developer | BD Army Technician | Problem Solver</h3>
 
 <p align="center">
   <a href="#projects">View Projects</a> •
