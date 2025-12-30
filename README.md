@@ -76,10 +76,9 @@ I have successfully transitioned my technical aptitude into software engineering
 
 ### 📊 GitHub Stats
 
-
 ![](https://github-readme-stats.vercel.app/api?username=pankaj72885&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
 ![](https://nirzak-streak-stats.vercel.app/?user=pankaj72885&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=pankaj72885&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=pankaj72885&theme=dark&hide_border=false&include_all_commits=false&count_private=false)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
@@ -109,8 +108,8 @@ _A rigorous advanced training program focusing on Scalability, Cloud Native Tech
 
 _Foundational training covering the entire web development lifecycle._
 
-- **Frontend Mastery:** Responsive design with HTML5, CSS3, Tailwind CSS, DaisyUI and ShadCN/UI.
 - **JavaScript Core:** DOM manipulation, ES6+ features, and asynchronous programming.
+- **Frontend Mastery:** Responsive design with React ecosystem, Tailwind CSS, and ShadCN/UI.
 - **MERN Introduction:** Hands-on experience connecting React frontends with Express, Node/Mongo backends.
 - **Assessment:** Completed 12+ rigorous assignments and coding challenges.
 
@@ -152,7 +151,7 @@ const myPhilosophy: Developer = {
 
 ✨ **Technical Proficiency**
 
-- Strong foundation in modern JavaScript/TypeScript and React ecosystem
+- Strong foundation in modern JavaScript/TypeScript, React ecosystem and Express.js
 - Experience building scalable applications with clean architecture
 - Understanding of security, performance optimization, and best practices
 
@@ -200,17 +199,17 @@ const myPhilosophy: Developer = {
 I'm actively seeking **remote opportunities** where I can contribute to meaningful projects and grow as a developer. If you're looking for a dedicated full-stack developer with a strong foundation and eagerness to learn, let's talk!
 
 📧 **Email:** [pankajbepari7@gmail.com](mailto:pankajbepari7@gmail.com)  
-🔗 **LinkedIn:** [linkedin.com/in/pankajbepari](https://www.linkedin.com/in/pankaj-bepari-8aa69013a)  
+🔗 **LinkedIn:** [linkedin.com/in/pankajbepari](https://www.linkedin.com/in/pankajbepari)  
 💼 **Portfolio:** [Coming Soon]  
 📍 **Location:** Dhaka, Bangladesh (Open to Remote Worldwide)  
 ⏰ **Timezone:** GMT+6 (Flexible)
 
 ---
 
-## 📌 Current Focus (November 2025)
+## 📌 Current Focus (December 2025)
 
 - 🎯 Mastering DSA (Arrays, Linked Lists, Trees, Graphs, Dynamic Programming)
-- 🚀 Building a professional portfolio website with Next.js & Framer Motion
+- 🚀 Building a professional portfolio website with Next.js
 - 📚 Deep diving into PostgreSQL queries, indexing, and Prisma ORM
 - 🔍 Actively applying for remote full-stack developer positions globally
 - 🌱 Contributing to open-source projects (React, Node.js ecosystems)
@@ -241,4 +240,4 @@ _"I don't just write code—I craft solutions. Every project is an opportunity t
 
 ---
 
-_Last Updated: November 2025_
+_Last Updated: December 2025_
