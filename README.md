@@ -76,11 +76,11 @@ I have successfully transitioned my technical aptitude into software engineering
 
 ### 📊 GitHub Stats
 
-![](https://github-readme-stats.vercel.app/api?username=pankaj72885&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=pankaj72885&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=pankaj72885&theme=dark&hide_border=false&include_all_commits=false&count_private=false)
-
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=pankaj72885&theme=dark&hide_border=false&include_all_commits=false&count_private=false" alt="GitHub Stats" />
+  <img src="https://nirzak-streak-stats.vercel.app/?user=pankaj72885&theme=dark&hide_border=false" alt="Streak Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=pankaj72885&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact&langs_count=8" alt="Top Languages" />
+</p>
 
 ---
 
