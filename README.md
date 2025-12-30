@@ -76,30 +76,168 @@ I have successfully transitioned my technical aptitude into software engineering
 
 ### 📊 GitHub Stats
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Pankaj72885&show_icons=true&theme=radical" alt="Pankaj's GitHub stats" />
-  <img src="https://streak-stats.demolab.com?user=Pankaj72885&theme=radical" alt="Pankaj's Streak" />
-</p>
+![](https://github-readme-stats.vercel.app/api?username=Pankaj72885&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://nirzak-streak-stats.vercel.app/?user=Pankaj72885&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=Pankaj72885&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Pankaj72885&layout=compact&theme=radical" alt="Top Languages" />
-</p>
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ---
 
-### 🌱 Learning & Future Goals
+## 🎓 Education & Certifications
 
-- Deepening knowledge in **Docker** & **AWS** for cloud-native deployments.
-- Exploring **Golang** for high-performance backend systems.
+### **🚀 Next Level Web Development (Level 2)**
+
+**Institution:** [Programming Hero](https://next.programming-hero.com/course-details)
+**Duration:** Nov 2025 – Apr 2026 (In Progress)
+
+_A rigorous advanced training program focusing on Scalability, Cloud Native Tech, and Polyglot Programming._
+
+- **Advanced Full Stack:** Building scalable applications with **Next.js**, **Prisma ORM**, and **PostgreSQL**.
+- **Golang Mastery:** Developing high-performance backend services and CRUD operations using **Go**.
+- **DevOps & Cloud:** Implementing **Docker** containerization, **Nginx** load balancing, and **AWS** (EC2, S3, CI/CD with GitHub Actions).
+- **Software Engineering:** Focusing on System Design, Testing (Jest/Supertest), and Algorithms.
+- **Major Projects:**
+  - _PH Healthcare:_ Full Stack App with AI Integration (Frontend & Backend).
+  - _PH Tour Management:_ Backend system built with Golang.
+
+### **✅ Complete Web Development**
+
+**Institution:** [Programming Hero](https://web.programming-hero.com/course-details)
+**Duration:** July 2025 – Dec 2025 (Completing)
+
+_Foundational training covering the entire web development lifecycle._
+
+- **Frontend Mastery:** Responsive design with HTML5, CSS3, Tailwind CSS, DaisyUI and ShadCN/UI.
+- **JavaScript Core:** DOM manipulation, ES6+ features, and asynchronous programming.
+- **MERN Introduction:** Hands-on experience connecting React frontends with Express, Node/Mongo backends.
+- **Assessment:** Completed 12+ rigorous assignments and coding challenges.
+
+### **💻 Full Stack Web Development (MERN)**
+
+**Institution:** [Ostad](https://ostad.app/course/mern)
+**Duration:** May 2025 – Dec 2025 (Completing)
+
+_Intensive bootcamp focused on the MERN ecosystem and production standards._
+
+- **Live Interactive Learning:** Real-time code reviews and problem-solving with industry experts.
+- **Backend Logic:** Deep dive into Node.js core modules, Express.js middleware, and API security.
+- **Advanced React:** Mastering React 19 patterns, complex state management, and performance hooks.
+- **Project Work:** Building production-grade E-commerce and Task Management applications.
 
 ---
 
-### <a id="contact"></a>📫 Connect with Me
+## 💡 Development Approach
 
-- **LinkedIn**: [Pankaj Bepari](https://www.linkedin.com/in/pankaj-bepari-8aa69013a)
-- **Email**: [pankaj72885@gmail.com](mailto:pankaj72885@gmail.com)
+```typescript
+interface Developer {
+  code: "Clean, maintainable, and well-documented";
+  learning: "Build real projects, not just tutorials";
+  problemSolving: "Research, experiment, and iterate";
+  collaboration: "Clear communication and code reviews";
+}
 
-<!-- Footer -->
-<p align="center">
-  <i>"Discipline is the bridge between goals and accomplishment." - Jim Rohn</i>
-</p>
+const myPhilosophy: Developer = {
+  code: "Clean, maintainable, and well-documented",
+  learning: "Build real projects, not just tutorials",
+  problemSolving: "Research, experiment, and iterate",
+  collaboration: "Clear communication and code reviews",
+};
+```
+
+---
+
+## 🎯 What I Bring to Your Team
+
+✨ **Technical Proficiency**
+
+- Strong foundation in modern JavaScript/TypeScript and React ecosystem
+- Experience building scalable applications with clean architecture
+- Understanding of security, performance optimization, and best practices
+
+🚀 **Project Delivery**
+
+- 13+ completed projects demonstrating full-stack development lifecycle
+- Experience converting JavaScript to TypeScript for improved code quality
+- Comfortable with modern deployment workflows and CI/CD
+
+🌱 **Growth Mindset**
+
+- Continuously learning and adapting to new technologies
+- Self-motivated with proven ability to learn independently
+- Active in staying current with web development trends
+
+💼 **Professional Traits**
+
+- Disciplined work ethic developed through military service
+- Strong communication skills for remote collaboration
+- Reliable and committed to meeting deadlines
+
+---
+
+## 🌍 Remote Work Readiness
+
+✅ **Equipped for Remote Collaboration:**
+
+- Excellent internet connectivity and dedicated workspace
+- Experienced with Git workflows and GitHub collaboration
+- Comfortable with Slack, Discord, Zoom, and project management tools
+- Flexible with time zones and async communication
+- Self-disciplined and productive in remote environments
+
+✅ **Available for:**
+
+- Full-time remote positions
+- Contract/freelance projects
+- Part-time opportunities
+- Open source contributions
+
+---
+
+## <a id="contact"></a>📫 Let's Connect
+
+I'm actively seeking **remote opportunities** where I can contribute to meaningful projects and grow as a developer. If you're looking for a dedicated full-stack developer with a strong foundation and eagerness to learn, let's talk!
+
+📧 **Email:** [pankajbepari7@gmail.com](mailto:pankajbepari7@gmail.com)  
+🔗 **LinkedIn:** [linkedin.com/in/pankajbepari](https://www.linkedin.com/in/pankaj-bepari-8aa69013a)  
+💼 **Portfolio:** [Coming Soon]  
+📍 **Location:** Dhaka, Bangladesh (Open to Remote Worldwide)  
+⏰ **Timezone:** GMT+6 (Flexible)
+
+---
+
+## 📌 Current Focus (November 2025)
+
+- 🎯 Mastering DSA (Arrays, Linked Lists, Trees, Graphs, Dynamic Programming)
+- 🚀 Building a professional portfolio website with Next.js & Framer Motion
+- 📚 Deep diving into PostgreSQL queries, indexing, and Prisma ORM
+- 🔍 Actively applying for remote full-stack developer positions globally
+- 🌱 Contributing to open-source projects (React, Node.js ecosystems)
+- 📝 Writing technical blog posts to share learning journey
+- 🏆 Participating in coding challenges on LeetCode & CodeWars
+
+---
+
+<div align="center">
+
+### 💭 Professional Motto
+
+_"I don't just write code—I craft solutions. Every project is an opportunity to learn, improve, and deliver value."_
+
+---
+
+![Profile Views](https://komarev.com/ghpvc/?username=Pankaj72885&color=blueviolet&style=flat-square)
+
+⭐ **If you find my work interesting, consider starring my repositories!**
+
+**🤝 Open to collaborations, contributions, and opportunities**
+
+</div>
+
+---
+
+> **📌 Quick Note:** I'm committed to becoming a highly skilled, professional full-stack developer. My goal for 2026 is to be working with an innovative team on impactful projects while continuously expanding my technical expertise.
+
+---
+
+_Last Updated: November 2025_
