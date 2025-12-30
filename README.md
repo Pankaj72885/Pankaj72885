@@ -1,266 +1,105 @@
-# Pankaj Bepari | Full Stack Web Developer
+![Banner](./banner.png)
 
-<div align="center">
+<h1 align="center">Hi there, I'm Pankaj Bepari 👋</h1>
+<h3 align="center">Full Stack Developer | Ex-Army Technician | Problem Solver</h3>
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/pankajbepari/)
-[![Email](https://img.shields.io/badge/Email-Contact-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:pankajbepari7@gmail.com)
-[![Portfolio](https://img.shields.io/badge/Portfolio-Visit-000000?style=for-the-badge&logo=vercel&logoColor=white)](#)
-
-**🌍 Open to Remote Opportunities Worldwide | 📍 Based in Dhaka, Bangladesh**
-
-</div>
-
----
-
-## 👨‍💻 Professional Summary
-
-Results-driven **Full Stack Web Developer** with hands-on experience building **13+ production-ready applications**. Specialized in creating scalable, type-safe web applications with **React 19, Next.js, and TypeScript**. Currently advancing expertise in **Cloud Native Architecture (Docker, AWS)** and **Golang** through rigorous industry-standard training scheduled for completion in April 2026. I combine military-grade discipline with cutting-edge technical skills to deliver robust software solutions.
-
-**🎯 Key Strengths:**
-- 3+ Full-Stack MERN applications deployed in production
-- Strong foundation in TypeScript, modern React patterns, and RESTful API design
-- Experience with authentication systems (Firebase Auth, JWT), state management (Zustand, TanStack Query), and form validation
-- Actively mastering Microservices, CI/CD pipelines, and System Design
-- Self-driven learner with a clear roadmap for Full Stack mastery
+<p align="center">
+  <a href="#projects">View Projects</a> •
+  <a href="#skills">Technical Skills</a> •
+  <a href="#contact">Contact Me</a>
+</p>
 
 ---
 
-## 🛠️ Technical Skills
+### 🚀 About Me
 
-### **Core Technologies**
+I am a disciplined and adaptable **Full Stack Developer** based in Bangladesh.
 
-**Frontend Development**
-- **Languages:** JavaScript (ES6+), TypeScript, HTML5, CSS3
-- **Frameworks/Libraries:** React 19, Next.js, React Router v7
-- **Styling:** Tailwind CSS, shadcn/ui, Framer Motion, DaisyUI
-- **State Management:** Zustand, TanStack Query (React Query)
-- **Form & Validation:** React Hook Form, Zod
+My journey into tech is unique: I served for **12 years in the Bangladesh Army** as an Electronic Security System Technician. This experience instilled in me unwavering **discipline**, **responsibility**, and the ability to **solve complex problems under pressure**.
 
-**Backend Development**
-- **Runtime:** Node.js, Bun.js (Learning)
-- **Frameworks:** Express.js, Golang (Fiber/Gin - Learning)
-- **Databases:** MongoDB (Mongoose), PostgreSQL, Firebase
-- **Authentication:** JWT, Firebase Auth, OAuth2
-- **API Tools:** Axios, RESTful API Design
+I have successfully transitioned my technical aptitude into software engineering, completing a rigorous full-stack development course and building production-ready applications. I specialize in building modern, responsive, and scalable web applications using **Next.js**, **React**, and **TypeScript**.
 
-**DevOps & Tools**
-- **Version Control:** Git, GitHub
-- **Deployment:** Vercel, Render, Cloudflare Pages, AWS (EC2, S3 - Learning)
-- **Containerization:** Docker, Nginx
-- **Design:** Figma
-- **Code Quality:** ESLint, Prettier, Jest (Testing)
+**Why hire me?**
+
+- 🤝 **Reliable & Team-Oriented**: My military background means I value teamwork, communication, and delivering on promises.
+- 💻 **Modern Tech Stack**: I don't just know the basics; I build with shadcn/ui, scalable backend architectures, and type-safe systems.
+- ⚡ **Ready to Deploy**: I am currently seeking immediate opportunities to bring my skills to a professional engineering team.
 
 ---
 
-## 💼 Featured Projects
+### 🛠️ Technical Skills
 
-### 🏦 **Finease** | [Live Demo](https://finease-font-end.vercel.app/) | [Frontend](https://github.com/Pankaj72885/finease-font-end) | [Backend](https://github.com/Pankaj72885/finease-back-end)
-*A comprehensive MERN Stack application for managing services and data.*
-
-**Tech Stack:** React, Tailwind CSS, Express.js, MongoDB, Firebase Auth, JWT
-
-**✨ Key Features:**
-- 🔐 **Secure Authentication:** Firebase-based login/registration with JWT token verification for private routes.
-- 📊 **Data Management:** Full CRUD (Create, Read, Update, Delete) operations for managing service entries.
-- 📱 **Responsive UI:** Built with Tailwind CSS to ensure a seamless experience across mobile and desktop.
-- 🔍 **Dynamic Search:** Real-time filtering of data and advanced search functionality.
-- 🎨 **Interactive Elements:** Smooth animations and user feedback using toast notifications.
+| **Frontend**                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                            | **Backend**                                                                                                                                                                                                                                                      | **Database & Tools**                                                                                                                                                                                                                                                                                                                                                                                             |
+| :---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | :--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | :--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| ![React](https://img.shields.io/badge/React-20232a?style=flat&logo=react&logoColor=61DAFB) ![Next.js](https://img.shields.io/badge/Next.js-black?style=flat&logo=next.js&logoColor=white) ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=flat&logo=typescript&logoColor=white) <br> ![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=flat&logo=tailwind-css&logoColor=white) ![Redux](https://img.shields.io/badge/Redux-593D88?style=flat&logo=redux&logoColor=white) ![Shadcn/UI](https://img.shields.io/badge/shadcn%2Fui-000000?style=flat&logo=shadcnui&logoColor=white) | ![Node.js](https://img.shields.io/badge/Node.js-43853D?style=flat&logo=node.js&logoColor=white) ![Express.js](https://img.shields.io/badge/Express.js-404D59?style=flat) <br> ![JWT](https://img.shields.io/badge/JWT-black?style=flat&logo=JSON%20web%20tokens) | ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=flat&logo=postgresql&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=flat&logo=mongodb&logoColor=white) <br> ![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white) ![VS Code](https://img.shields.io/badge/VS_Code-0078D4?style=flat&logo=visual%20studio%20code&logoColor=white) |
 
 ---
 
-### 📱 **Hero Apps** | [Live Demo](https://hero-apps.pages.dev/) | [Repository](https://github.com/Pankaj72885/Hero-Apps)
-*A modern React-based application demonstrating modular architecture.*
+### 🏆 Featured Projects
 
-**Tech Stack:** React, React Router, Tailwind CSS, Cloudflare Pages
+#### 1. [Care.xyz](https://github.com/Pankaj72885/care.xyz) 🌟 _(Best Project)_
 
-**✨ Key Features:**
-- ⚡ **Fast Performance:** Optimized build deployed on Cloudflare Pages for global low-latency access.
-- 🧩 **Modular Architecture:** Clean code structure using reusable React components.
-- 🛣️ **Client-Side Routing:** Seamless navigation without page reloads using React Router.
-- 🎨 **Modern Design:** Clean, accessible UI focusing on user experience (UX).
+> A comprehensive professional caregiving services platform.
 
----
+- **Links**: [Source Code](https://github.com/Pankaj72885/care.xyz) | [Live Demo](https://carexyz-production.up.railway.app/)
+- **Tech Stack**: Next.js (App Router), TypeScript, PostgreSQL, Prisma, Tailwind CSS, shadcn/ui.
+- **Key Features**:
+  - Secure Authentication & Role-based Access (Admin/User).
+  - Complete Booking Engine with Schedule Management.
+  - Interactive Admin Dashboard.
+  - Payment Gateway Integration.
+  - SEO Optimized with dynamic metadata.
 
-### 🎧 **Customer Support Zone** | [Live Demo](https://customer-support-zone.web.app/) | [Repository](https://github.com/Pankaj72885/customer-support-zone)
-*A service-oriented platform built to handle user inquiries and events.*
+#### 2. [eTuitionBd](https://github.com/Pankaj72885/eTuitionBd-client)
 
-**Tech Stack:** React, Firebase, Tailwind CSS, DaisyUI
+> A modern tuition management platform connecting students and tutors.
 
-**✨ Key Features:**
-- 👤 **User Profiles:** Dynamic profile management with photo upload and details editing.
-- 📅 **Event Booking:** Interactive UI for users to browse and select services.
-- 🛡️ **Private Routes:** Protected pages accessible only to authenticated users.
-- 💅 **Aesthetic UI:** Utilizes DaisyUI components for a polished, professional look.
+- **Links**: [Frontend](https://github.com/Pankaj72885/eTuitionBd-client) | [Backend](https://github.com/Pankaj72885/eTuitionBd-server) | [Live Demo](https://etuitionbd-client-production.up.railway.app/)
+- **Tech Stack**: React, Express.js, MongoDB, Firebase Auth, Stripe.
+- **Key Features**:
+  - Role-based dashboards (Student, Tutor, Admin).
+  - Real-time tuition searching and booking.
+  - Integrated payment system.
 
----
+#### 3. [FinEase](https://github.com/Pankaj72885/finease-front-end)
 
-## 📂 Other Noteworthy Projects
+> A personal finance management application.
 
-*Explore more projects on my [GitHub Profile](https://github.com/Pankaj72885?tab=repositories)*
-
-| Project | Description | Tech Stack |
-| :--- | :--- | :--- |
-| **Fullstack Todo App** | A task management tool with user-specific data persistence and authentication. | MongoDB, Express, React, Node |
-| **Interactive Landing Pages** | Various responsive landing pages converted from Figma designs. | HTML5, Tailwind CSS, JS |
-| **Programming Hero Assignments** | A collection of rigorous coding challenges and full-stack assignments. | MERN Stack, APIs |
-| **JS DOM Projects** | Interactive utilities and games demonstrating core JavaScript logic. | Vanilla JS, DOM Manipulation |
-
----
-
-# 📊 GitHub Stats:
-
-
-![](https://github-readme-stats.vercel.app/api?username=pankaj72885&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=pankaj72885&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=pankaj72885&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
-
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
-
+- **Links**: [Frontend](https://github.com/Pankaj72885/finease-front-end) | [Backend](https://github.com/Pankaj72885/finease-back-end) | [Live Demo](https://finease-font-end.vercel.app)
+- **Tech Stack**: MERN Stack (MongoDB, Express, React, Node.js).
+- **Key Features**:
+  - Income and Expense tracking with visual reports.
+  - Secure user authentication.
+  - Responsive financial dashboard.
 
 ---
 
-## 🎓 Education & Certifications
+### 📊 GitHub Stats
 
-### **🚀 Next Level Web Development (Level 2)**
-**Institution:** [Programming Hero](https://next.programming-hero.com/course-details)
-**Duration:** Nov 2025 – Apr 2026 (In Progress)
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Pankaj72885&show_icons=true&theme=radical&count_private=true" alt="Pankaj's GitHub stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Pankaj72885&theme=radical" alt="Pankaj's Streak" />
+</p>
 
-*A rigorous advanced training program focusing on Scalability, Cloud Native Tech, and Polyglot Programming.*
-- **Advanced Full Stack:** Building scalable applications with **Next.js**, **Prisma ORM**, and **PostgreSQL**.
-- **Golang Mastery:** Developing high-performance backend services and CRUD operations using **Go**.
-- **DevOps & Cloud:** Implementing **Docker** containerization, **Nginx** load balancing, and **AWS** (EC2, S3, CI/CD with GitHub Actions).
-- **Software Engineering:** Focusing on System Design, Testing (Jest/Supertest), and Algorithms.
-- **Major Projects:**
-    - *PH Healthcare:* Full Stack App with AI Integration (Frontend & Backend).
-    - *PH Tour Management:* Backend system built with Golang.
-
-### **✅ Complete Web Development**
-**Institution:** [Programming Hero](https://web.programming-hero.com/course-details)
-**Duration:** July 2025 – Dec 2025 (Completing)
-
-*Foundational training covering the entire web development lifecycle.*
-- **Frontend Mastery:** Responsive design with HTML5, CSS3, Tailwind CSS, DaisyUI and ShadCN/UI.
-- **JavaScript Core:** DOM manipulation, ES6+ features, and asynchronous programming.
-- **MERN Introduction:** Hands-on experience connecting React frontends with Express, Node/Mongo backends.
-- **Assessment:** Completed 12+ rigorous assignments and coding challenges.
-
-### **💻 Full Stack Web Development (MERN)**
-**Institution:** [Ostad](https://ostad.app/course/mern)
-**Duration:** May 2025 – Dec 2025 (Completing)
-
-*Intensive bootcamp focused on the MERN ecosystem and production standards.*
-- **Live Interactive Learning:** Real-time code reviews and problem-solving with industry experts.
-- **Backend Logic:** Deep dive into Node.js core modules, Express.js middleware, and API security.
-- **Advanced React:** Mastering React 19 patterns, complex state management, and performance hooks.
-- **Project Work:** Building production-grade E-commerce and Task Management applications.
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Pankaj72885&layout=compact&theme=radical" alt="Top Languages" />
+</p>
 
 ---
 
-## 💡 Development Approach
+### 🌱 Learning & Future Goals
 
-```typescript
-interface Developer {
-  code: "Clean, maintainable, and well-documented";
-  learning: "Build real projects, not just tutorials";
-  problemSolving: "Research, experiment, and iterate";
-  collaboration: "Clear communication and code reviews";
-}
-
-const myPhilosophy: Developer = {
-  code: "Clean, maintainable, and well-documented",
-  learning: "Build real projects, not just tutorials",
-  problemSolving: "Research, experiment, and iterate",
-  collaboration: "Clear communication and code reviews",
-};
-```
+- Deepening knowledge in **Docker** & **AWS** for cloud-native deployments.
+- Exploring **Golang** for high-performance backend systems.
 
 ---
 
-## 🎯 What I Bring to Your Team
+### 📫 Connect with Me
 
-✨ **Technical Proficiency**
-- Strong foundation in modern JavaScript/TypeScript and React ecosystem
-- Experience building scalable applications with clean architecture
-- Understanding of security, performance optimization, and best practices
+- **LinkedIn**: [Pankaj Bepari](https://www.linkedin.com/in/pankaj-bepari-8aa69013a)
+- **Email**: [pankaj72885@gmail.com](mailto:pankaj72885@gmail.com)
 
-🚀 **Project Delivery**
-- 13+ completed projects demonstrating full-stack development lifecycle
-- Experience converting JavaScript to TypeScript for improved code quality
-- Comfortable with modern deployment workflows and CI/CD
-
-🌱 **Growth Mindset**
-- Continuously learning and adapting to new technologies
-- Self-motivated with proven ability to learn independently
-- Active in staying current with web development trends
-
-💼 **Professional Traits**
-- Disciplined work ethic developed through military service
-- Strong communication skills for remote collaboration
-- Reliable and committed to meeting deadlines
-
----
-
-## 🌍 Remote Work Readiness
-
-✅ **Equipped for Remote Collaboration:**
-- Excellent internet connectivity and dedicated workspace
-- Experienced with Git workflows and GitHub collaboration
-- Comfortable with Slack, Discord, Zoom, and project management tools
-- Flexible with time zones and async communication
-- Self-disciplined and productive in remote environments
-
-✅ **Available for:**
-- Full-time remote positions
-- Contract/freelance projects
-- Part-time opportunities
-- Open source contributions
-
----
-
-## 📫 Let's Connect
-
-I'm actively seeking **remote opportunities** where I can contribute to meaningful projects and grow as a developer. If you're looking for a dedicated full-stack developer with a strong foundation and eagerness to learn, let's talk!
-
-📧 **Email:** [pankajbepari7@gmail.com](mailto:pankajbepari7@gmail.com)  
-🔗 **LinkedIn:** [linkedin.com/in/pankajbepari](https://www.linkedin.com/in/pankajbepari/)  
-💼 **Portfolio:** [Coming Soon]  
-📍 **Location:** Dhaka, Bangladesh (Open to Remote Worldwide)  
-⏰ **Timezone:** GMT+6 (Flexible)
-
----
-
-## 📌 Current Focus (November 2025)
-
-- 🎯 Mastering DSA (Arrays, Linked Lists, Trees, Graphs, Dynamic Programming)
-- 🚀 Building a professional portfolio website with Next.js & Framer Motion
-- 📚 Deep diving into PostgreSQL queries, indexing, and Prisma ORM
-- 🔍 Actively applying for remote full-stack developer positions globally
-- 🌱 Contributing to open-source projects (React, Node.js ecosystems)
-- 📝 Writing technical blog posts to share learning journey
-- 🏆 Participating in coding challenges on LeetCode & CodeWars
-
----
-
-<div align="center">
-
-### 💭 Professional Motto
-
-*"I don't just write code—I craft solutions. Every project is an opportunity to learn, improve, and deliver value."*
-
----
-
-![Profile Views](https://komarev.com/ghpvc/?username=pankaj72885&color=blueviolet&style=flat-square)
-
-⭐ **If you find my work interesting, consider starring my repositories!**
-
-**🤝 Open to collaborations, contributions, and opportunities**
-
-</div>
-
----
-
-> **📌 Quick Note:** I'm committed to becoming a highly skilled, professional full-stack developer. My goal for 2026 is to be working with an innovative team on impactful projects while continuously expanding my technical expertise.
-
----
-
-*Last Updated: November 2025*
+<!-- Footer -->
+<p align="center">
+  <i>"Discipline is the bridge between goals and accomplishment." - Jim Rohn</i>
+</p>
