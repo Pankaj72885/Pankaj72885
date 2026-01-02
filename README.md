@@ -77,9 +77,23 @@ I have successfully transitioned my technical aptitude into software engineering
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=Pankaj72885&theme=dark&hide_border=false&include_all_commits=false&count_private=false" alt="GitHub Stats" /><br/>
-  <img src="https://nirzak-streak-stats.vercel.app/?user=pankaj72885&theme=dark&hide_border=false" alt="Streak Stats" /><br/>
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Pankaj72885&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact&langs_count=8" alt="Top Languages" />
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=pankaj72885&show_icons=true&theme=dark&hide_border=false" height="165" />
+</p>
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=pankaj72885&theme=dark&hide_border=false" height="165" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=pankaj72885&layout=compact&theme=dark&hide_border=false&langs_count=8" height="165" />
+</p>
+
+---
+
+## 🏆 GitHub Trophies
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=pankaj72885&theme=darkhub&no-frame=false&margin-w=15&row=1" />
 </p>
 
 ---
