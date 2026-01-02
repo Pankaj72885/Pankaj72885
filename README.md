@@ -74,19 +74,14 @@ I have successfully transitioned my technical aptitude into software engineering
 
 ---
 
-### 📊 GitHub Stats
+## 📊 GitHub Stats
 
-<p align="center">
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=pankaj72885&show_icons=true&theme=dark&hide_border=false" height="165" />
-</p>
+![GitHub Stats](https://github-readme-stats-sigma-five.vercel.app/api?username=pankaj72885&show_icons=true&theme=dark)
 
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=pankaj72885&theme=dark&hide_border=false" height="165" />
-</p>
+![GitHub Streak](https://streak-stats.demolab.com?user=pankaj72885&theme=dark&hide_border=false)
 
-<p align="center">
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=pankaj72885&layout=compact&theme=dark&hide_border=false&langs_count=8" height="165" />
-</p>
+![Top Languages](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=pankaj72885&layout=compact&theme=dark)
+
 
 ---
 
